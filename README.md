@@ -1,1 +1,1 @@
-# bookbot
+# Bookbot is a simple Python refamiliarization project 
